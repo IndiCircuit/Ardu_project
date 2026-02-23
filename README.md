@@ -60,7 +60,7 @@ The final step of connections, connect the board to you computer. Now that every
 
 If you had some experience in coding languages such as python or any other, understanding this code will be faster for you than for anyone else! But even without knowing the basics of coding, it doesn't mean that you will get completely lost! Let's get into it! 
 
-Here is the code : (in the Arduino IDE of course! If you prefer instead of copying-pasting it to download it, check my file 'Blinky.ino'!)
+Here is the code : (in the Arduino IDE of course! If you prefer instead of copying-pasting it to download it, check my file 'Blink.ino.ino'!)
 
 ```
 void setup() {
@@ -138,3 +138,5 @@ Electronics are really fun when there are challenges that makes your brain refle
 ````
 (can be any number if it follows the same logic, more time in HIGH than in LOW)
 </details>
+
+The solutions are downloadable in the files that are with it, hope it helped a lot! Byeeee :)
