@@ -68,9 +68,9 @@ void setup() {
 } 
 
 void loop() {
-  digitalWrite(13,HIGH)
+  digitalWrite(13,HIGH);
   delay(1000);
-  digitalWrite(13,LOW)
+  digitalWrite(13,LOW);
   delay(1000);
 } 
 ```
@@ -92,9 +92,9 @@ Electronics are really fun when there are challenges that makes your brain refle
   <summary>See solution 1</summary>
    
 ```
-  digitalWrite(13,HIGH)
+  digitalWrite(13,HIGH);
   delay(200);
-  digitalWrite(13,LOW)
+  digitalWrite(13,LOW);
   delay(200);
 ```
 (it can be any number in it, if at least smaller than 1000) 
@@ -105,9 +105,9 @@ Electronics are really fun when there are challenges that makes your brain refle
   <summary>See solution 2</summary>
 
   ```
-  digitalWrite(13,HIGH)
+  digitalWrite(13,HIGH);
   delay(1200);
-  digitalWrite(13,LOW)
+  digitalWrite(13,LOW);
   delay(1200);
 ```
 (it can be any number, if at least greater than 1000)
@@ -118,9 +118,9 @@ Electronics are really fun when there are challenges that makes your brain refle
   <summary>See solution 3</summary>
   
 ````
-  digitalWrite(13,HIGH)
+  digitalWrite(13,HIGH);
   delay(200);
-  digitalWrite(13,LOW)
+  digitalWrite(13,LOW);
   delay(800);
 ````
 (can be any number if it follows the same logic, more time in LOW than in HIGH)
@@ -131,9 +131,9 @@ Electronics are really fun when there are challenges that makes your brain refle
   <summary>See solution 4</summary>
 
 ````
-  digitalWrite(13,HIGH)
+  digitalWrite(13,HIGH);
   delay(800);
-  digitalWrite(13,LOW)
+  digitalWrite(13,LOW);
   delay(200);
 ````
 (can be any number if it follows the same logic, more time in HIGH than in LOW)
