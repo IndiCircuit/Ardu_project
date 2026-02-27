@@ -42,13 +42,13 @@ Now that we have the materials we need to blink an LED, let's start wiring and c
 Put the LED somewhere in your breadboard. Make sure that you notice where the longer leg is and where the smaller leg is! Usually, the longer is positive (we call it Anode) and the shorter leg is negative (we call it cathode)! 
 
 ## Step 2 : 
-Connect the resistance to the LED to the anode of the LED just like in the picture. 
+Connect the resistance to the LED to the cathode of the LED just like in the picture. 
 
 ## Step 3 : 
-Connect the other end of the resistance with a cable to any digital pin of your board (those from 13 to 0). 
+Connect the other end of the resistance with a cable to a ground pin. 
 
 ## Step 4 : 
-Connect the other cathode of the LED to the ground.
+Connect the anode of the LED to a digital pin (the ones between 0 and 13). In this project, I decided to use the digital pin 13. 
 
 ## Step 5 : 
 Check if your circuit is well connected. It is the most important step in every Arduino project or just anything! Making sure of it saves your electronic pieces, trust me!
